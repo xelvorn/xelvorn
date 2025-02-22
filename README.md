@@ -5,7 +5,6 @@
 <p> I'm Xelvorn AKA Тиджой, welcome to my page
 </p>
 
-- 🌱 I’m currently learning: [**Python**](https://python.org/), [**HTML**](https://html.spec.whatwg.org/)
 - 📫 How to reach me: <a href="https://t.me/Pixel8Pro_Chat" target="_blank">
                         <img alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
                       </a>
